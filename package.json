@@ -1,0 +1,19 @@
+{
+  "name": "pyb-web",
+  "version": "1.0.0",
+  "description": "web project of a blog website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knightneo/pyb-web"
+  },
+  "author": "knightneo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knightneo/pyb-web/issues"
+  },
+  "homepage": "https://github.com/knightneo/pyb-web"
+}
